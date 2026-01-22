@@ -1,6 +1,6 @@
 # 🚀 Data Science Journey & Portfolio
 
-¡Hola! Soy **[Mauricio Chambi]**, un Desarrollador de Software en transición hacia el mundo de la Ciencia de Datos.
+¡Hola! Soy **Mauricio Chambi**, un Desarrollador de Software en transición hacia el mundo de la Ciencia de Datos.
 
 Este repositorio actúa como mi espacio de aprendizaje y portafolio técnico. Aquí documento mi progreso, los proyectos que voy construyendo y los desafíos técnicos que resuelvo al unir mi experiencia en software con el análisis estadístico y el Machine Learning.
 
