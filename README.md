@@ -32,5 +32,4 @@ Este repositorio actúa como mi espacio de aprendizaje y portafolio técnico. Aq
 
 ## 📫 Contacto
 Si te interesa mi perfil o quieres darme feedback sobre mi código:
-* [[LinkedIn](https://www.linkedin.com/in/mauriciochambi/)](LinkedIn)
-* [[Gmail](mauriciochambicaceres@gmail.com)](Mi correo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/test@gmail.com](https://www.linkedin.com/in/mauriciochambi/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mauriciochambicaceres@gmail.com) 
