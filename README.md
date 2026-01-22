@@ -32,5 +32,5 @@ Este repositorio actúa como mi espacio de aprendizaje y portafolio técnico. Aq
 
 ## 📫 Contacto
 Si te interesa mi perfil o quieres darme feedback sobre mi código:
-* [LinkedIn](Tu URL de LinkedIn)
-* [Email](Tu correo)
+* [[LinkedIn](https://www.linkedin.com/in/mauriciochambi/)](LinkedIn)
+* [[Gmail](mauriciochambicaceres@gmail.com)](Mi correo)
