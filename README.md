@@ -7,7 +7,7 @@ Este repositorio actúa como mi espacio de aprendizaje y portafolio técnico. Aq
 ## 🛠️ Tech Stack & Herramientas
 * **Lenguajes:** Python, SQL.
 * **Data Science:** Pandas, NumPy, Scikit-Learn, Seaborn/Matplotlib.
-* **Engineering:** Git, Streamli
+* **Engineering:** Git, Streamlit
 * **Enfoque:** Clean Code, EDA (Exploratory Data Analysis), Model Deployment.
 
 ## 📂 Proyectos Destacados
