@@ -15,7 +15,7 @@ Este repositorio actúa como mi espacio de aprendizaje y portafolio técnico. Aq
 | Proyecto | Descripción | Tech Stack | Demo / Link |
 | :--- | :--- | :--- | :--- |
 | **🚢 Titanic Survival Predictor** | Análisis End-to-End del famoso dataset del Titanic. Incluye limpieza de datos, ingeniería de características (Feature Engineering) y un modelo de Regresión Logística con **85.5% de precisión**. | `Pandas` `Scikit-Learn` `Streamlit` | [Ver App en Vivo](https://titanic-project-data-science.streamlit.app/) |
-| *[Próximo Proyecto]* | *Análisis A/B Testing o SQL Avanzado (En progreso)* | ... | ... |
+| **💰 Stack Overflow Salary Analytics** | Análisis de mercado IT real con +89k respuestas. Enfoque en limpieza de datos complejos (Data Cleaning), detección de anomalías en salarios (Outliers) e ingeniería de características (Ordinal & Label Encoding) para análisis de correlación. | `Pandas` `Seaborn` `Scikit-Learn` | [Ver Notebook]([./stackoverflow-salary](https://colab.research.google.com/drive/1NPycb3kbNg4hpxBpBizvg8eP4HrCnwq3?usp=sharing)) |
 
 ## 📈 Registro de Progreso
 
@@ -26,9 +26,11 @@ Este repositorio actúa como mi espacio de aprendizaje y portafolio técnico. Aq
 - [x] Despliegue de modelos en la nube (Streamlit Cloud).
 
 ### Fase 2: Profundización (En curso)
+- [x] **Data Cleaning Avanzado:** Manejo de datos inconsistentes (texto mezclado con números) y limpieza de Outliers financieros.
+- [x] **Feature Engineering:** Implementación de `OrdinalEncoder` (para niveles educativos) y `LabelEncoder` (para categorías nominales).
+- [x] **EDA Avanzado:** Análisis de correlación con mapas de calor (Heatmaps) para detección de variables predictoras.
 - [ ] Estadística Inferencial y A/B Testing.
-- [ ] SQL Avanzado para Ingeniería de Datos.
-- [ ] Deep Learning básico.
+- [ ] Modelado de Regresión (Próximo paso).
 
 ## 📫 Contacto
 Si te interesa mi perfil o quieres darme feedback sobre mi código:
