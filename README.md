@@ -15,7 +15,7 @@ Este repositorio actúa como mi espacio de aprendizaje y portafolio técnico. Aq
 | Proyecto | Descripción | Tech Stack | Demo / Link |
 | :--- | :--- | :--- | :--- |
 | **🚢 Titanic Survival Predictor** | Análisis End-to-End del famoso dataset del Titanic. Incluye limpieza de datos, ingeniería de características (Feature Engineering) y un modelo de Regresión Logística con **85.5% de precisión**. | `Pandas` `Scikit-Learn` `Streamlit` | [Ver App en Vivo](https://titanic-project-data-science.streamlit.app/) |
-| **💰 Stack Overflow Salary Analytics** | Análisis de mercado IT real con +89k respuestas. Enfoque en limpieza de datos complejos (Data Cleaning), detección de anomalías en salarios (Outliers) e ingeniería de características (Ordinal & Label Encoding) para análisis de correlación. | `Pandas` `Seaborn` `Scikit-Learn` | [Ver Notebook]([./stackoverflow-salary](https://colab.research.google.com/drive/1NPycb3kbNg4hpxBpBizvg8eP4HrCnwq3?usp=sharing)) |
+| **💰 Stack Overflow Salary Analytics** | Análisis de mercado IT real con +89k respuestas. Enfoque en limpieza de datos complejos (Data Cleaning), detección de anomalías en salarios (Outliers) e ingeniería de características (Ordinal & Label Encoding) para análisis de correlación. | `Pandas` `Seaborn` `Scikit-Learn` | [Ver Notebook](https://colab.research.google.com/drive/1NPycb3kbNg4hpxBpBizvg8eP4HrCnwq3?usp=sharing) |
 
 ## 📈 Registro de Progreso
 
