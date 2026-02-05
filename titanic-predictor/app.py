@@ -3,7 +3,7 @@ import joblib
 import pandas as pd
 
 # 1. Cargar el modelo (Descongelar el cerebro)
-model = joblib.load('titanic_model.pkl')
+model = joblib.load('./titanic_model.pkl')
 
 # 2. Título y Descripción
 st.title("🚢 Titanic Survival Predictor")
